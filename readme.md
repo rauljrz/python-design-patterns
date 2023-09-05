@@ -16,3 +16,4 @@ b) Structural Patterns
 
 1 - Decorator: Allows adding new features to an object without changing their structures.
 2 - Proxy: Proxy is helpful when creating a very highly resource intensive object.
+3 - Adapter: Converts interface of a class to another the client is expecting.
