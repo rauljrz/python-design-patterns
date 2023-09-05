@@ -11,9 +11,7 @@ def Make_blink(function):
 		#Grab the return value of the function being decorated
         ret = function()
 		
-
 		#Add new functionality to the function being decorated
         return "<blink>" + ret + "</blink>"
 		
-
-    return decorator
+    return decoratork
