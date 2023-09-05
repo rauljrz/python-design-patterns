@@ -15,3 +15,4 @@ a) Creational Patterns
 b) Structural Patterns
 
 1 - Decorator: Allows adding new features to an object without changing their structures.
+2 - Proxy: Proxy is helpful when creating a very highly resource intensive object.
