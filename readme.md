@@ -11,3 +11,7 @@ a) Creational Patterns
 3 - Singleton: Is the pattern you need When you want to allow only one object to be created from a class. It's an object-oriented way of providing global variables.
 4 - Builder: Is a solution to an anti-pattern called telescoping constructor. Occurs when a software developer attempts to build a complex object using an excessive number of constructors.
 5 - Prototype: Clone objects according to a prototypical instance. 
+
+b) Structural Patterns
+
+1 - Decorator: Allows adding new features to an object without changing their structures.
