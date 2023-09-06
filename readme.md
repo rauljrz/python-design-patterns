@@ -18,3 +18,4 @@ b) Structural Patterns
 2 - Proxy: Proxy is helpful when creating a very highly resource intensive object.
 3 - Adapter: Converts interface of a class to another the client is expecting.
 4 - Composite: Maintains a tree data structure.
+5 - Bridge: Helps untangle a complicated class hierarchy.
