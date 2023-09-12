@@ -98,4 +98,4 @@ Behavioral Design Pattern:
 2 - Visitor
 3 - Iterator
 4 - Strategy
-5 -Chain of responsibility
+5 - Chain of responsibility
