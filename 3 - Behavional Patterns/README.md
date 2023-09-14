@@ -6,7 +6,7 @@
 
 ***
 
-### Observer [01-Observer](https://github.com/rauljrz/python-design-patterns/tree/main/3-Behavional%20Patterns/01-Observer)
+### [Observer](https://github.com/rauljrz/python-design-patterns/tree/main/3%20-%20Behavional%20Patterns/01-Observer)
 
 The observer pattern establishes a one-to-many relationship between a subject and multiple observers.
 
@@ -16,14 +16,12 @@ The observer pattern establishes a one-to-many relationship between a subject an
 
 ***
 
-### Visitor
+### [Visitor](https://github.com/rauljrz/python-design-patterns/tree/main/3%20-%20Behavional%20Patterns/02-Visitor)
 The visitor allows adding new features to existing class hierarchy without changing it.
 
 * The problem here is to add new operations dynamically to existing classes.
 * The scenario includes a house, a hvac specialist and an electrcian who are visitors of type 1 and type 2.
 * The solution includes applying new operations on verious elements of an existing class hierarchy.
-
-Visitor Example : [02-Visitor](https://github.com/rauljrz/python-design-patterns/tree/main/3-Behavional%20Patterns/02-Visitor)
 
 ***
 

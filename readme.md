@@ -79,23 +79,25 @@ A design pattern is kind of a new language which consists of
 
 ### Read More
 
-Creational Design Pattern:
-1 - Concrete Factory: Encapsulates object creation. That is, factory is an object specializing in creating other objects.
-2 - Abstract Factory: Is useful when its user expects to receive a family of related object at a given time but doesn't have to know which family it is until runtime.
-3 - Singleton: Is the pattern you need When you want to allow only one object to be created from a class. It's an object-oriented way of providing global variables.
-4 - Builder: Is a solution to an anti-pattern called telescoping constructor. Occurs when a software developer attempts to build a complex object using an excessive number of constructors.
-5 - Prototype: Clone objects according to a prototypical instance.
+[Creational Design Pattern:](https://github.com/rauljrz/python-design-patterns/tree/main/1%20-%20Creation%20Patterns)
+1 - *Concrete Factory:* Encapsulates object creation. That is, factory is an object specializing in creating other objects.
+2 - *Abstract Factory:* Is useful when its user expects to receive a family of related object at a given time but doesn't have to know which family it is until runtime.
+3 - *Singleton:* Is the pattern you need When you want to allow only one object to be created from a class. It's an object-oriented way of providing global variables.
+4 - *Builder:* Is a solution to an anti-pattern called telescoping constructor. Occurs when a software developer attempts to build a complex object using an excessive number of constructors.
+5 - *Prototype:* Clone objects according to a prototypical instance.
 
-Structural Design Pattern:
-1 - Decorator: Allows adding new features to an object without changing their structures.
-2 - Proxy: Proxy is helpful when creating a very highly resource intensive object.
-3 - Adapter: Converts interface of a class to another the client is expecting.
-4 - Composite: Maintains a tree data structure.
-5 - Bridge: Helps untangle a complicated class hierarchy.
+[Structural Design Pattern:](https://github.com/rauljrz/python-design-patterns/tree/main/2%20-%20Structural%20Patterns)
 
-Behavioral Design Pattern: 
-1 - Observer: Establishes a one-to-many relationship between a subject and multiple observers.
-2 - Visitor
-3 - Iterator
-4 - Strategy
-5 - Chain of responsibility
+1 - *Decorator:* Allows adding new features to an object without changing their structures.
+2 - *Proxy:* Proxy is helpful when creating a very highly resource intensive object.
+3 - *Adapter:* Converts interface of a class to another the client is expecting.
+4 - *Composite:* Maintains a tree data structure.
+5 - *Bridge:* Helps untangle a complicated class hierarchy.
+
+[Behavioral Design Pattern](https://github.com/rauljrz/python-design-patterns/tree/main/3%20-%20Behavional%20Patterns):
+
+1 - *Observer:* Establishes a one-to-many relationship between a subject and multiple observers.
+2 - *Visitor:*
+3 - *Iterator:*
+4 - *Strategy:*
+5 - *Chain of responsibility:*
