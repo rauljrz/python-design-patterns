@@ -1,5 +1,7 @@
 # Python: Design Patterns
 
+![Python: Design Patterns][lil-thumbnail-url] 
+
 If you’re a programmer, you’re probably plenty busy, so why not save some time and avoid reinventing the wheel by reusing well-proven design solutions—software design patterns—to improve your code quality? Design patterns encourage programming efficiency and code reuse.
 
 ### What are Design Patterns
@@ -126,3 +128,8 @@ A design pattern is kind of a new language which consists of
 4- *Strategy:*
 
 5- *Chain of responsibility:*
+
+### Author:
+[Raul Juarez](https://www.linkedin.com/in/rauljrz/)
+
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2422610/2422610-1633633858335-16x9.jpg
